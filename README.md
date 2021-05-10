@@ -1,2 +1,3 @@
 # RSA-DES_TCP_CHAT
 基于RSA&amp;DES的TCP加密聊天程序
+可用RSA加密DES密钥实现服务器客户端之间的DES密钥的交换，进而双方使用DES加密会话
